@@ -72,10 +72,15 @@ button{
     border-radius: 10px;
 }
 
+.container-3 {
+    text-align: center;
+}
+
 .info-header {
     color: #1f2937;
     font-size: 36px;
     font-weight: 900;
+    margin: 60px;
 }
 
 .container-3-1 {
@@ -101,5 +106,4 @@ button{
     justify-content: center;
     align-content: flex-start;
     flex-wrap: wrap;
- 
 }
