@@ -114,7 +114,7 @@ button{
     background-color: #e5e7eb;
     font-size: 36px;
     font-style: italic;
-    padding: 100px 475px;
+    padding: 75px 475px;
 }
 
 .credit {
@@ -154,4 +154,8 @@ flex-wrap: wrap;
     padding-top: 40px;
     padding-bottom: 40px;
     text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
 }
