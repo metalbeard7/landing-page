@@ -123,3 +123,29 @@ button{
     text-align: right;
     padding-top: 20px;
 }
+
+.container-5 {
+    background-color: #3882F6;
+    color: #f9faf8;
+    display: flex;
+ 
+    justify-content: center;
+    margin: 80px 475px;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.call-text {
+flex-wrap: wrap;
+padding-right: 100px;
+}
+
+.call-text p {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.container-5 button {
+    border: 2px solid #f9faf8;
+    align-self: flex-end;
+}
