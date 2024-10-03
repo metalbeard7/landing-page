@@ -110,3 +110,17 @@ button{
     color: #e5e#1f2937;
     font-size: 18px;
 }
+
+.container-4 {
+    color: #1f2937;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    padding: 100px 475px;
+}
+
+.credit {
+    font-weight: 700;
+    text-align: right;
+    padding-top: 20px;
+}
